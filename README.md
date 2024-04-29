@@ -1,1 +1,1 @@
-# Projetos_pessoais
+# Projetos pessoais para fins de aprendizado
