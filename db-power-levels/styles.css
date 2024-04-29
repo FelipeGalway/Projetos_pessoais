@@ -1,0 +1,90 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e6e6e6; 
+}
+
+header {
+    background-color: #fda654; 
+    color: #000000;
+    text-align: center;
+    width: 100%;
+    top: 0;
+    padding: 1px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 27px;
+    font-weight: bold;
+}
+
+nav ul li a {
+    color: #000000;
+    text-decoration: none;
+    font-size: larger;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-size: large;
+}
+
+p {
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: large;
+    margin: 0;
+    border: 5px solid #CCC;
+    border-top: 1px dashed #CCC;
+    padding: 20px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.banner {
+    height: 40px;
+}
+
+.warriors {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: flex;
+    text-align: center;
+    font-weight: bold;
+    border: 5px solid #CCC;
+    border-bottom: 1px dashed #CCC;
+}
+
+.power {
+    margin: 50px;
+}
+
+footer {
+    background-color: #fda654; 
+    color: #000000;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    padding: 1px;
+}
+
